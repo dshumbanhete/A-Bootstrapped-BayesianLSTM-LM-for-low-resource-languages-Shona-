@@ -1,2 +1,2 @@
-# A-Bootstrapped-BayesianLSTM-LM-for-low-resource-languages-Shona-
+# Reducing Annotation Dependency in low-resource NER: a bootstrap approach to Shona Language Modelling
 Code implementation for my BComm (Hons) project at Rhodes University. Supervised by Dr. Shibeshi and Prof. Dlodlo, the study looks at bootstrap methods in NLP that can effectively model agglutinative languages under low-resource constraints. The model uses bootstrap ensemble sampling and bayesian variational inference in an RNN LM..
